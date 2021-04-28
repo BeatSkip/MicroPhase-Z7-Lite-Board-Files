@@ -1,0 +1,29 @@
+{
+  "config": {
+    "items": [
+      {
+        "infra": {
+          "name": "z7_lite_z7020", 
+          "display": "MicroPhase Z7 Lite (z7020)", 
+          "revision": "1.0", 
+          "description": "Microphase Z7-Lite dev board 512MB ram", 
+          "company": "Microphase Technology (Shanghai) Co., Ltd", 
+          "company_display": "MicroPhase", 
+          "author": "Oscar Spierings (Beatskip)", 
+          "contributors": [], 
+          "category": "Single Part", 
+          "website": "www.microphase.cn", 
+          "logo": "z7-Lite_board.png", 
+          "search-keywords": [
+            "z7-Lite", 
+            "7020", 
+            "board", 
+            "Single Part"
+          ]
+        }
+      }
+    ]
+  }, 
+  "_major": 1, 
+  "_minor": 0
+}
