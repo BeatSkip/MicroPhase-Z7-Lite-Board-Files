@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> 
+<part_info part_name="xc7z020clg400-2">
+<pins>
+  <pin index="0" name ="btns_2bits_tri_i_0" iostandard="LVCMOS33" loc="P16"/>
+  <pin index="1" name ="btns_2bits_tri_i_1" iostandard="LVCMOS33" loc="T12"/>
+  <pin index="2" name ="leds_2bits_tri_o_0" iostandard="LVCMOS33" loc="P15"/>
+  <pin index="3" name ="leds_2bits_tri_o_1" iostandard="LVCMOS33" loc="U12"/>
+  
+  <pin index="12" name ="sys_clk" iostandard="LVCMOS33" loc="N18"/>
+  
+  <pin index="22" name ="hdmi_hpd" iostandard="LVCMOS33" loc="P19"/>
+  
+  <pin index="14" name ="TMDS_IN_clk_p" iostandard="TMDS_33" loc="U18"/>
+  <pin index="15" name ="TMDS_IN_clk_n" iostandard="TMDS_33" loc="U19"/>
+  <pin index="16" name ="TMDS_data_p_0" iostandard="TMDS_33" loc="V20"/>
+  <pin index="17" name ="TMDS_data_p_1" iostandard="TMDS_33" loc="T20"/>
+  <pin index="18" name ="TMDS_data_p_2" iostandard="TMDS_33" loc="N20"/>
+  <pin index="19" name ="TMDS_data_n_0" iostandard="TMDS_33" loc="W20"/>
+  <pin index="20" name ="TMDS_data_n_1" iostandard="TMDS_33" loc="U20"/>
+  <pin index="21" name ="TMDS_data_n_2" iostandard="TMDS_33" loc="P20"/> 
+  
+</pins>
+</part_info>
+
+
