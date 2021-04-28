@@ -1,1 +1,1 @@
-# MicroPhase-Z7-Lite-Board-Files
+# MicroPhase Z7-Lite Board Files
