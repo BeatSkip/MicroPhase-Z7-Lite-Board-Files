@@ -4,9 +4,9 @@
       {
         "infra": {
           "name": "z7_lite_z7020", 
-          "display": "MicroPhase Z7 Lite (z7020)", 
+          "display": "MicroPhase Z7 Lite (Z7020)", 
           "revision": "1.0", 
-          "description": "Microphase Z7-Lite dev board 512MB ram", 
+          "description": "Microphase Z7-Lite Development board (Z7020 Version)", 
           "company": "Microphase Technology (Shanghai) Co., Ltd", 
           "company_display": "MicroPhase", 
           "author": "Oscar Spierings (Beatskip)", 
